@@ -5,3 +5,5 @@
 function multiply(a, b){
     return  a * b
 }
+
+console.log("result =", multiply(4,3))
