@@ -10,3 +10,8 @@ function check(a, x) {
     return a.includes(x)
     // your code here
 }
+
+console.log(check([1,2,3,4], 3))
+console.log(check(['q','e','z'], 'z'))
+console.log(check([1,2,3,4], 9))
+console.log(check(['q','e','z'], 's'))
