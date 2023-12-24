@@ -13,3 +13,5 @@ function repeatStr (n, s) {
     }
     return string;
 }
+
+console.log(repeatStr(7, 'Green'))
