@@ -11,3 +11,6 @@
 function opposite(number) {
     return number=number*(-1)
     }
+
+console.log(opposite(2))
+console.log(opposite(-8))
