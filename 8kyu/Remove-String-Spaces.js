@@ -12,3 +12,5 @@
 function noSpace(x){
     return x=x.replace(/\s/g,'')
 }
+
+console.log(noSpace('8 j 8   mBl'))
