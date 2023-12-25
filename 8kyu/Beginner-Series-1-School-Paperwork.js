@@ -13,3 +13,6 @@ function paperwork(n, m) {
     let result =(n>0 && m>0) ?   n*m :   0
     return result
 }
+
+console.log(paperwork(3, 10))
+console.log(paperwork(4, 0))
