@@ -32,3 +32,5 @@ function DNAStrand(dna){
 
 }
 
+console.log(DNAStrand('AATT'))
+console.log(DNAStrand('TATACCGG'))
