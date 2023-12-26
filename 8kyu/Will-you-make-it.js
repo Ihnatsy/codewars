@@ -12,3 +12,6 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
     } else {return false
     }
 };
+
+console.log(zeroFuel(40,10,2))
+console.log(zeroFuel(40,30,2))
